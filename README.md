@@ -1,5 +1,5 @@
 # Netflix UI Clone
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://netflix-ui-clone1.netlify.app)
+Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://ui-clone1-netflix.netlify.app)
 
 _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
