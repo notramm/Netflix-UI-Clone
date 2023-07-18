@@ -13,7 +13,6 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 
 - HTML
 - CSS
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
 ## What it does
 
